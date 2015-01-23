@@ -1,0 +1,124 @@
+.center-block() {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.nav a {
+  color: #5a5a5a;
+  font-size: 16px;
+  font-weight: bold;
+  padding: 14px 10px;
+  text-transform: uppercase;
+}
+
+.nav li {
+  display: inline;
+}
+
+.jumbotron {
+  background-image:url('./media/projeccio1.jpg');
+  height: 500px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 0% 30%;
+}
+
+.jumbotron .container {
+  position: relative;
+  top:100px;
+}
+
+.jumbotron h1 {
+  color: #fff;
+  font-size: 56px;  
+  font-family: 'Shift', sans-serif;
+  font-weight: bold;
+}
+
+.jumbotron p {
+  font-size: 30px;
+  color: #fff;
+}
+
+.descobreix {
+  border-bottom: 1px solid #dbdbdb;
+  background-color: #efefef;
+}
+
+.descobreix h2 {
+  color: #393c3d;
+  font-size: 24px;
+}
+
+.descobreix p {
+  font-size: 16px;
+  margin-bottom: 13px;
+}
+
+.learn-more {
+  background-color: #f7f7f7;
+}
+
+.learn-more h3 {
+  font-family: 'Shift', sans-serif;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.learn-more p {
+  font-size: 16px;
+}
+
+.learn-more a {
+  color: #00b0ff;
+  font-size: 16px;
+}
+
+.mapa {
+  margin-top: 0px;
+  border-top: 1px solid #dbdbdb;
+  border-bottom: 1px solid #dbdbdb;
+  background-image: url('./media/mapagran.png');
+  min-height: 400px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 0% 58%;
+}
+
+.mapa img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.contacte {
+  margin-top: 10px;
+}
+
+.contacte h2 {
+  color: #393c3d;
+  font-size: 28px;
+}
+
+.contacte p {
+  font-size: 16px;
+  margin-bottom: 13px;
+}
+
+.bandera {
+  margin-top: 0px;
+  border-top: 1px solid #dbdbdb;
+}
+
+.bandera img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-height: 360px; 
+}
+
+.que-fem p {
+  text-align: justify;
+  font-size: 16px;
+}
